@@ -1,0 +1,7 @@
+langchain
+ollama
+langchain-community
+langchain-ollama
+faiss-cpu
+sentence-transformers
+chromadb
