@@ -1,0 +1,27 @@
+# Core LangChain ecosystem (latest stable unified versions)
+langchain>=1.0.0
+langchain-core>=1.0.0
+langchain-community>=1.0.0
+
+# Integrations for specific LLM providers
+langchain-groq>=1.0.0
+langchain-ollama>=1.0.0
+langchain-huggingface>=1.0.0
+
+# Vector stores and embeddings
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+
+# Optional RAG / data handling utilities
+tiktoken>=0.8.0
+pypdf>=4.2.0
+python-dotenv>=1.0.1
+
+# General dependencies
+numpy>=1.26.0
+pandas>=2.2.0
+requests>=2.32.0
+aiohttp>=3.10.0
+PyYAML>=6.0
+SQLAlchemy>=2.0.30
+tenacity>=8.3.0
