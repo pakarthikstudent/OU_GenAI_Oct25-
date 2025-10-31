@@ -1,0 +1,3 @@
+pip install streamlit
+
+run as:  python -m streamlit run app.py
